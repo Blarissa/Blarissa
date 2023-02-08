@@ -1,6 +1,5 @@
 ### Oii eu sou Larissa Brasil 👋
-- 🔭  Sou graduanda de Ciência da Computação - UFPI
-- 😄 Pronouns: she/her
+- 🔭  Sou graduanda em Ciência da Computação - UFPI
 
 ### Connect with me
 <div>
@@ -9,7 +8,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/brasil-larissa" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
 </div>
