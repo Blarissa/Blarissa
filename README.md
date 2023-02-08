@@ -3,7 +3,7 @@
 
 ### Connect with me
 <div>
-<a href = "mailto:contatorafaballerini@gmail.com">
+<a href = "mailto:larissabrasil009@gmail.com">
 	<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
@@ -17,5 +17,5 @@
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blarissa&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=stars"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarissa&layout=compact" />
 </div>
