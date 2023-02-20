@@ -31,9 +31,6 @@
 </div>
 
 ### Stats
-<div>
-	<a  href="https://github.com/blarissa">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blarissa&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=stars" />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarissa&layout=compact" />	
-	</a>
-</div>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Blarissa&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=stars" />		
+
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarissa&layout=compact" />
