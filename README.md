@@ -1,8 +1,24 @@
 <img align="right" width="250px" style="margin-top:-20px" src="octocatBlarissa.png"/>
 
 ### Oii eu sou Larissa Brasil 👋
+- Desenvolvedora Back - end 
 - Graduanda em Ciência da Computação - UFPI
 - Técnica em Informática - IFPI
+
+### Tecnologias e Ferramentas
+<div>    
+	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
+	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />  
+	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />	
+</div>
+
+### Estou aprendendo
+<div> 	    	
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</div>
 
 ### Contato
 <div>
@@ -14,22 +30,7 @@
 	</a> 
 </div>
 
-### Tecnologias e Ferramentas
-<div>    
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-### Estou aprendendo
-<div> 
-	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />      
-	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div>
-
 ### Stats
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Blarissa&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=stars" />		
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarissa&layout=compact" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarissa&layout=compact&hide=TSQL" />
