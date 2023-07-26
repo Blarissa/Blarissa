@@ -28,9 +28,4 @@
 	<a href="https://www.linkedin.com/in/brasil-larissa">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a> 
-</div>
-
-### Stats
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Blarissa&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=stars" />		
-
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarissa&layout=compact&hide=TSQL" />
+</div>	
