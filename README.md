@@ -1,7 +1,7 @@
 <img align="right" width="250px" style="margin-top:-20px" src="octocatBlarissa.png"/>
 
 ### Oii eu sou Larissa Brasil 👋
-- Desenvolvedora Back - end 
+- Desenvolvedora Full-Stack 
 - Graduanda em Ciência da Computação - UFPI
 - Técnica em Informática - IFPI
 
